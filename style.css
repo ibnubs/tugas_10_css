@@ -1,0 +1,26 @@
+/* style untuk  body */
+body{
+    
+    background-image: radial-gradient(circle at top right, white, red 60%);
+    height: 1080px;
+}
+
+div {
+    margin: 0 auto;
+}
+
+/* style untuk di dengan class satu */
+.satu{
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+    background-image: radial-gradient(circle at 50% 100%, white, blue);
+}
+
+/* style untuk di dengan class dua */
+.dua{
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+    background-image: radial-gradient(circle at 1%, white, blue, white);
+}
